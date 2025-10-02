@@ -10,9 +10,8 @@
 </div>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p style="font-size:66px; font-weight:bold; color:#d6336c; text-align:center;">
- <h1> Hi👋, I'm Naval </h1>
-</p>
+<h1></h1> Hi👋, I'm Naval.</h1>
+
 <hr style="width:75%; border:1px solid #ccc;">
 ### A passionate IAM & Security Engineer | Entra ID & PAM 
 
