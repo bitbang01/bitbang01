@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi👋, I'm Naval
+### A passionate IAM & Security Engineer | Entra ID & PAM 
 <!--
 **bitbang01/bitbang01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+## 💫 About Me:
 🚲I am currently working on PowerShell Automation<br>🫡I am looking to collaborate on Azure PowerShell/CLI Automations<br>🤗I am looking for help with Azure CLI/Terraform<br>🪴I am currently learning Azure security and DevOps<br>🐦Ask me about Active Directory, Entra ID, CyberSecurity, PowerShell<br>🍬Fun fact: Learning is free
 
 
@@ -31,7 +31,12 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bitbang01&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Snake Game Repo View -->
 
-  ## 💰 You can help me by Donating
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+  ## 💰 Avoid Links
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ps1arr0w) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ps1arr0w) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ps1arr0w) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ps1arr0w) 
 
