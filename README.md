@@ -1,8 +1,8 @@
 <div id="top"></div>
 
-<p align="center">
+<div align="center">
   <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/anime-top.webp" width="256px" height="256px"/>
-</p>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
