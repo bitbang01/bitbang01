@@ -3,9 +3,7 @@
 <p align="center">
   <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/anime-top.webp" width="256px" height="256px"/>
 </p>
-<!-- Start -->
-![Styled Banner](https://github.com/bitbang01/bitbang01/blob/main/resources/anime-top.webp)
-<!-- End -->
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
