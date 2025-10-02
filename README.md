@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/franckferman/franckferman/refs/heads/stable/docs/github/graphical_resources/cyber-sphere-animation.gif](https://github.com/bitbang01/bitbang01/blob/main/resources/anime-top.webp)" width="256px" height="256px"/>
+  <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/anime-top.webp" width="256px" height="256px"/>
 </p>
 
 <p align="center">
