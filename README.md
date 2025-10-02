@@ -4,6 +4,9 @@
   <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/anime-top.webp" width="256px" height="256px"/>
 </p>
 
+<div style="background-color:red; padding:10px; color:white;">
+  <strong>This is a red background div</strong>
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
