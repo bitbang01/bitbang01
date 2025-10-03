@@ -14,7 +14,7 @@
 ## Hi👋, I'm Naval.
 
 <hr style="width:75%; border:1px solid #ccc;">
-### A passionate IAM & Security Engineer | Entra ID & PAM 
+### A passionate IAM & Security Engineer with ❤️ of Developer
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
