@@ -15,7 +15,7 @@
 #### A passionate IAM & Security Engineer with ❤️ of Developer
 <hr style="width:75%; border:1px solid #ccc;">
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+#### <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HumanRobot.gif" width="50"> Behind this firewall lies a human. Allegedly  
 
 ```javascript
 const thai = {
