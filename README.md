@@ -55,9 +55,12 @@ Here are some ideas to get you started:
 <hr style="width:75%; border:1px solid #ccc;">
 
 ```text
-<div align='right'>
-🚲I am currently working on PowerShell Automation<br>🫡I am looking to collaborate on Azure PowerShell/CLI Automations<br>🤗I am looking for help with Azure CLI/Terraform<br>🪴I am currently learning Azure security and DevOps<br>🐦Ask me about Active Directory, Entra ID, CyberSecurity, PowerShell<br>🍬Fun fact: Learning is free
-</div>
+🚲I am currently working on PowerShell Automation
+🫡I am looking to collaborate on Azure PowerShell/CLI Automations
+🤗I am looking for help with Azure CLI/Terraform
+🪴I am currently learning Azure security and DevOps
+🐦Ask me about Active Directory, Entra ID, CyberSecurity, PowerShell
+🍬Fun fact: Learning is free
 ```
 
 ## 🌐 Socials:
