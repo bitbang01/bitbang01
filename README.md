@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<br>
 <img align='left' src="https://github.com/bitbang01/bitbang01/blob/main/resources/BehindTheFireWall.gif" width="230">
 
 ### 💫 About Me:
