@@ -11,9 +11,9 @@
 <img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/RainBirds.gif" width="230">
 <!--img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"-->
 
-<h2> Hi <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Wave2Mee.gif" width="30px">, I'm Naval. </h2>
-
+<em><b> Hi <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Wave2Mee.gif" width="30px">, I'm Naval. </b></em>
 <hr style="width:75%; border:1px solid #ccc;">
+
 ### A passionate IAM & Security Engineer with ❤️ of Developer
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
