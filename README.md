@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br>
 <img align='left' src="https://github.com/bitbang01/bitbang01/blob/main/resources/BehindTheFireWall.gif" width="230">
 
-<h3 style="text-align:left;">💫 About Me:</h3>
+<h3 style="text-align:right;">💫 About Me:</h3>
 <hr style="width:75%; border:1px solid #ccc;">
 🚲I am currently working on PowerShell Automation<br>🫡I am looking to collaborate on Azure PowerShell/CLI Automations<br>🤗I am looking for help with Azure CLI/Terraform<br>🪴I am currently learning Azure security and DevOps<br>🐦Ask me about Active Directory, Entra ID, CyberSecurity, PowerShell<br>🍬Fun fact: Learning is free
 
