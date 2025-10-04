@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&duration=2500&pause=1000&color=3cb371&center=true&vCenter=true&width=800&height=200&lines=%F0%9F%8D%81+Hello%2C+World!+I%E2%80%99m+Naval+.;%F0%9F%90%8D+Identity+%26+Access+Expert%3A+Automation%2C+Scripting+Team%2C+SOC%2C+Governance.;%F0%9F%9B%A1%EF%B8%8F+System+%26+Network+Security+%7C+Offensive+Security+%7C+Dev+%26+MalDev.;%F0%9F%8C%8D+Open-source+Contributor+%7C+%2B10%E2%AD%90+on+GitHub." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&duration=2500&pause=1000&color=3cb371&center=true&vCenter=true&width=800&height=200&lines=%F0%9F%8D%81+Hello%2C+World!+I%E2%80%99m+Naval+.;%F0%9F%90%8D+Identity+%26+Access+Expert%3A+Automation%2C+Scripting+Team%2C+SOC%2C+Governance.;%F0%9F%9B%A1%EF%B8%8F+System+%26+Network+Security+%7C+Offensive+Security+%7C+Dev+%26+MalDev.;%F0%9F%8C%8D+Open-source+Contributor+%7C+%2B10%E2%AD%90+Repos+on+GitHub." alt="Typing SVG" />
   </a>
 </div>
 <img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/RainBirds.gif" width="230">
 <!--img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"-->
 
-## Hi👋, I'm Naval.
+## Hi👋<img src="https://github.com/bitbang01/bitbang01/blob/main/resources/wave2me.gif", I'm Naval.
 
 <hr style="width:75%; border:1px solid #ccc;">
 ### A passionate IAM & Security Engineer with ❤️ of Developer
