@@ -10,10 +10,11 @@
 </div>
 <img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/RainBirds.gif" width="230">
 <!--img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"-->
-
+<div align="center">
 ### Hi <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Wave2Mee.gif" width="30px">, I'm Naval.
 #### A passionate IAM & Security Engineer with ❤️ of Developer
 <hr style="width:75%; border:1px solid #ccc;">
+</div>
 
 #### <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HumanRobot.gif" width="75"> Behind this firewall lies a human. Allegedly  
 
