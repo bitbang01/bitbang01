@@ -18,15 +18,16 @@
 #### <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HumanRobot.gif" width="75"> Behind this firewall lies a human. Allegedly  
 
 ```javascript
-const thai = {
+const Indian = {
   pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+  code: [PowerShell, Typescript, HTML, CSS, Python, Java, C#, .NET],
+  tools: [Ansible, GithubActions, PowerShell, bash_script, Atom, GitLab, Docker],
+  Technologies: ["Azure-DevOps", "EntraID", "AD","Okta","Delinea","CyberArk","VDI","MSDefender","Sentinel"],
+  IGA-Tools: {
+                        coorganizer: "OneIdentity",
+                        speaker: "Saviynt",
+                        mentor: "PathLock"
+                        mentor: "FIM/MIM"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
