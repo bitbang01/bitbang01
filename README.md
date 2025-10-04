@@ -54,13 +54,11 @@ Here are some ideas to get you started:
 <div align='right'><h3>💫 About Me</h3></div>
 <hr style="width:75%; border:1px solid #ccc;">
 
-
-<div align='right'>
 ```text
+<div align='right'>
 🚲I am currently working on PowerShell Automation<br>🫡I am looking to collaborate on Azure PowerShell/CLI Automations<br>🤗I am looking for help with Azure CLI/Terraform<br>🪴I am currently learning Azure security and DevOps<br>🐦Ask me about Active Directory, Entra ID, CyberSecurity, PowerShell<br>🍬Fun fact: Learning is free
-```
 </div>
-
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ps1arr0w) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ps1arr0w) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ps1arr0w) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/ps1arr0w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:k.rajputnaval@gmail.com)
