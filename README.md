@@ -17,7 +17,7 @@
 
 <hr style="width:75%; border:1px solid #ccc;">
 
-<img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HumanRobot.gif" width="75"><h4> Behind this firewall lies a human. Allegedly</h4>  
+<h4><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HumanRobot.gif" width="75">Behind this firewall lies a human. Allegedly</h4>  
 
 ```javascript
 const Indian = {
