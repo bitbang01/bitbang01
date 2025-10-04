@@ -24,12 +24,12 @@ const Indian = {
   tools: [Ansible, GithubActions, PowerShell, bash_script, Atom, GitLab, Docker],
   Technologies: ["Azure-DevOps", "EntraID", "AD","Okta","Delinea","CyberArk","VDI","MSDefender","Sentinel"],
   IGA-Tools: {
-                        coorganizer: "OneIdentity",
-                        speaker: "Saviynt",
-                        mentor: "PathLock"
-                        mentor: "FIM/MIM"
+                        champion: "OneIdentity",
+                        intermediate: "Saviynt",
+                        beginner: "PathLock"
+                        expert: "FIM/MIM"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfScripting challenge focused on PowerShell and Automation"
 }
 ```
 
