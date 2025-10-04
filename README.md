@@ -14,8 +14,10 @@
 <h3> Hi <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Wave2Mee.gif" width="30px">, I'm Naval. </h3>
 <h3>A passionate IAM & Security Engineer with ❤️ of Developer</h3>
 </div>
+
 <hr style="width:75%; border:1px solid #ccc;">
-#### <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HumanRobot.gif" width="75"> Behind this firewall lies a human. Allegedly  
+
+<img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HumanRobot.gif" width="75"><h4> Behind this firewall lies a human. Allegedly</h4>  
 
 ```javascript
 const Indian = {
