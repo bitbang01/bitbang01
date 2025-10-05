@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
+
 <img align='left' src="https://github.com/bitbang01/bitbang01/blob/main/resources/RainFish.gif" width="230">
 <br>
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/GitStats.gif" width="40"> My Github Stats</h3></div>
@@ -64,7 +64,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 ```text
 🚲I am currently working on PowerShell Automation
-🫡I am looking to collaborate on Azure PowerShell/CLI Automations
+🔭I am looking to collaborate on Azure PowerShell/CLI Automations
 🤗I am looking for help with Azure CLI/Terraform
 🪴I am currently learning Azure security and DevOps
 🐦Ask me about Active Directory, Entra ID, CyberSecurity, PowerShell
