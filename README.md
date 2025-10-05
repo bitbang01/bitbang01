@@ -69,7 +69,6 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbang01&hide=HTML&layout=donut-vertical&card_width=300&custom_title=Corporate%20Coeffee%20Code&hide_progress=true)](https://github.com/bitbang01/github-readme-stats)
 
 <!--Testing Done-->
-![](https://github-readme-stats.vercel.app/api?username=bitbang01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=bitbang01&theme=dark&hide_border=false)<br/>
 
