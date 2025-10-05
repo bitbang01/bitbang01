@@ -65,7 +65,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=Script_Powershell&show_owner=true)](https://github.com/bitbang01/Script_Powershell)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbang01)](https://github.com/bitbang01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbang01&hide=HTML)](https://github.com/bitbang01/github-readme-stats)
 
 <!--Testing Done-->
 ![](https://github-readme-stats.vercel.app/api?username=bitbang01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
