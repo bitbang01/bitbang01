@@ -99,9 +99,6 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 ```
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=bitbang01&theme=vue-dark&mode=weekly&exclude_days=Tue%2CWed%2CThu)](https://git.io/streak-stats)
 
-![](https://nirzak-streak-stats.vercel.app/?user=bitbang01&theme=dark&hide_border=false)
-
-
 
 $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
