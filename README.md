@@ -73,9 +73,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&theme=dracula&show_owner=true" />
 </a>
 
-
-
-
+<br>
 <!--layout=normal & compact & donut & donut-vertical & pie-->
 
 <!--Hiding for using in another section
