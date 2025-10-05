@@ -97,9 +97,8 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 🐦Ask me about Active Directory, Entra ID, CyberSecurity, PowerShell
 🍬Fun fact: MarkDown is a scary language.
 ```
-<br>
-![](https://nirzak-streak-stats.vercel.app/?user=bitbang01&theme=dark&hide_border=false)<br/>
 
+![](https://nirzak-streak-stats.vercel.app/?user=bitbang01&theme=dark&hide_border=false)
 
 
 $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
