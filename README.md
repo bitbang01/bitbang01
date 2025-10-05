@@ -19,7 +19,7 @@ $${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <h3> Hi <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Wave2Mee.gif" width="30px">, I'm Naval. </h3><h3>A passionate $${\color{green} \mathbf{IAM \space \&\ \space Security \space Engineer}}$$ with ❤️ of Developer</h3>
 </div>
 
-$${\color{#32cd32} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
+$${\color{#cf71af} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
 
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HumanRobot.gif" width="75">Behind this firewall lies a human. Allegedly</h3></div>  
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br>
 <div align='center'><h3>💫 About Me</h3></div>
 
-$${\color{#32cd32} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
+$${\color{#cf71af} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
 ```text
 🚲I am currently working on PowerShell Automation
