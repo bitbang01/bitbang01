@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&duration=2500&pause=1000&color=3cb371&center=true&vCenter=true&width=800&height=200&lines=%F0%9F%8D%81+Hello%2C+World!+I%E2%80%99m+Naval+.;%F0%9F%90%8D+Identity+%26+Access+Expert%3A+Automation%2C+Scripting+Team%2C+SOC%2C+Governance.;%F0%9F%9B%A1%EF%B8%8F+Appls+%26+Identity+Security+%7C+MS+Entra+ID+%7C+Delinea+%26+CyberArk+PAM.;%F0%9F%8C%8D+Open-source+Contributor+%7C+%2B10%E2%AD%90+Repos+on+GitHub." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&duration=2500&pause=1000&color=3cb371&center=true&vCenter=true&width=800&height=200&lines=%F0%9F%8D%81+Hello%2C+World!+I%E2%80%99m+Naval+.;%F0%9F%90%8D+Identity+%26+Access+Expert%3A+Automation%2C+Scripting+Team%2C+SOC%2C+Governance.;%F0%9F%9B%A1%EF%B8%8F+Apps+%26+Identity+Security+%7C+MS+Entra+ID+%7C+Delinea+%26+CyberArk+PAM.;%F0%9F%8C%8D+Open-source+Contributor+%7C+%2B10%E2%AD%90+Repos+on+GitHub." alt="Typing SVG" />
   </a>
 
 </div>
@@ -74,7 +74,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <br>
 <img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/BehindTheFireWall.gif" width="230">
 <br>
-<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/ChillModeOn.gif" width="50"> Bits About Me</h3></div>
+<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/GyanMudra.gif" width="50"> Bits About Me</h3></div>
 
 $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
