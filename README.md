@@ -17,7 +17,7 @@
 <h3>A passionate IAM & Security Engineer with ❤️ of Developer</h3>
 </div>
 
-<hr style="width:75%; border:1px #00FFFF;">
+<hr style="width:75%; border:1px #00FFFF; background-color:cyan;">
 
 <h4><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HumanRobot.gif" width="75">Behind this firewall lies a human. Allegedly</h4>  
 
