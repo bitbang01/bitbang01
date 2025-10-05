@@ -72,14 +72,11 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
 
+
 <!--layout=normal & compact & donut & donut-vertical & pie-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbang01&hide=HTML&layout=donut-vertical&card_width=300&custom_title=Corporate%20Coeffee%20Code&hide_progress=true)](https://github.com/bitbang01/github-readme-stats)
 
-<!--Testing Done-->
-
-![](https://nirzak-streak-stats.vercel.app/?user=bitbang01&theme=dark&hide_border=false)<br/>
-
-<!--Testing Phase-->
+<!--Hiding for using in another section
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbang01&hide=HTML&layout=donut-vertical&card_width=300&custom_title=Corporate%20Coeffee%20Code&hide_progress=true)](https://github.com/bitbang01/github-readme-stats)-->
 
 <br>
 <img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/BehindTheFireWall.gif" width="230">
@@ -96,6 +93,8 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 🐦Ask me about Active Directory, Entra ID, CyberSecurity, PowerShell
 🍬Fun fact: MarkDown is a scary language.
 ```
+
+![](https://nirzak-streak-stats.vercel.app/?user=bitbang01&theme=dark&hide_border=false)<br/>
 
 $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
