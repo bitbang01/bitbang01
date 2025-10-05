@@ -86,6 +86,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/LotusFlower.gif" width="50"> Bits About Me</h3></div>
 
 $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
+
 ![](https://nirzak-streak-stats.vercel.app/?user=bitbang01&theme=dark&hide_border=false)<br/>
 
 ```text
