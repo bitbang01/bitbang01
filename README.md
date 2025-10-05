@@ -67,7 +67,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <a href="https://github.com/bitbang01/bitbang01" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&theme=dracula" />
 </a>
-bitbang01
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&show_owner=true)](https://github.com/bitbang01/bitbang01)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=Script_Powershell&show_owner=true)](https://github.com/bitbang01/Script_Powershell)
