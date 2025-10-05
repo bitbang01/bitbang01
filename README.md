@@ -12,6 +12,7 @@
 <!--hr style="width:50%; border:1px solid #ccc;"-->
 
 $${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
+
 <div>
 $${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/MotherIndia.gif" width="30px">
