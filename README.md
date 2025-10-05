@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 
 $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
-<!--Testing Phase-->
-[![Naval GitHub stats](https://github-readme-stats.vercel.app/api?username=bitbang01&hide=issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&commits_year=2025&theme=radical)](https://github.com/bitbang01/github-readme-stats)
+<!--hide_rank=true&rank_icon=github, percentile or default-->
+[![Naval GitHub stats](https://github-readme-stats.vercel.app/api?username=bitbang01&hide=issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&commits_year=2025&theme=radical&rank_icon=github)](https://github.com/bitbang01/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&show_owner=true)](https://github.com/bitbang01/bitbang01)
 
