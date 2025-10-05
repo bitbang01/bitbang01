@@ -87,7 +87,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
-<h4>Decrypting my personality… please wait. 🐦</h4>
+<h4 align="center">Decrypting my personality… please wait. 🐦</h4>
 
 ```text
 🚲I am currently working on PowerShell Automation
