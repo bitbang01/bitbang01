@@ -68,6 +68,10 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&theme=dracula&show_owner=true" />
 </a>
 
+<div align="center">
+### Show some ❤️ by starring some of the repositories!
+</div>
+
 <!--layout=normal & compact & donut & donut-vertical & pie-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbang01&hide=HTML&layout=donut-vertical&card_width=300&custom_title=Corporate%20Coeffee%20Code&hide_progress=true)](https://github.com/bitbang01/github-readme-stats)
 
