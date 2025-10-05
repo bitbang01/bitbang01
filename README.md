@@ -14,7 +14,7 @@
 <!--img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"-->
 <div align="center">
 <h3> Hi <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Wave2Mee.gif" width="30px">, I'm Naval. </h3>
-<h3>A passionate <span style="color:cyan">IAM & Security Engineer</span> with ❤️ of Developer</h3>
+<h3 style="color:cyan;">A passionate <span style="color:cyan">IAM & Security Engineer</span> with ❤️ of Developer</h3>
 </div>
 
 <hr style="width:75%; border:1px #00FFFF; background-color:cyan;">
