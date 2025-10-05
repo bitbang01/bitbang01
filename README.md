@@ -58,14 +58,15 @@ Here are some ideas to get you started:
 
 $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
-```text
-🚲I am currently working on PowerShell Automation
-🔭I am looking to collaborate on Azure PowerShell/CLI Automations
-🤗I am looking for help with Azure CLI/Terraform
-🪴I am currently learning Azure security and DevOps
-🐦Ask me about Active Directory, Entra ID, CyberSecurity, PowerShell
-🍬Fun fact: MarkDown is a scary language.
-```
+<!--Testing Phase-->
+
+![](https://github-readme-stats.vercel.app/api?username=bitbang01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bitbang01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbang01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=bitbang01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!--Testing Phase-->
 
 <br>
 <img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/BehindTheFireWall.gif" width="230">
