@@ -22,7 +22,7 @@ $${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 $${\color{#32cd32} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
 
-<h4><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HumanRobot.gif" width="75">Behind this firewall lies a human. Allegedly</h4>  
+<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HumanRobot.gif" width="75">Behind this firewall lies a human. Allegedly</h3></div>  
 
 ```javascript
 const Indian = {
