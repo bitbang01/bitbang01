@@ -22,7 +22,7 @@ $${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
 
-<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HotChocolate.gif" width="75">My Universe</h3></div>  
+<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HotChocolate.gif" width="40">My Universe</h3></div>  
 
 ```javascript
 const Indian = {
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <br>
 <img align='left' src="https://github.com/bitbang01/bitbang01/blob/main/resources/BehindTheFireWall.gif" width="230">
 <br>
-<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/DarkRoutes.gif" width="75"> About Me</h3></div>
+<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/DarkRoutes.gif" width="40"> About Me</h3></div>
 
 $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
