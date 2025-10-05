@@ -62,15 +62,11 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 [![Naval GitHub stats](https://github-readme-stats.vercel.app/api?username=bitbang01&hide=issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&commits_year=2025&theme=radical&rank_icon=github)](https://github.com/bitbang01/github-readme-stats)
 
 <a href="https://github.com/bitbang01/Script_Powershell" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=Script_Powershell&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=Script_Powershell&theme=dracula&show_owner=true" />
 </a>
 <a href="https://github.com/bitbang01/bitbang01" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&theme=dracula" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&theme=dracula&show_owner=true" />
 </a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&show_owner=true)](https://github.com/bitbang01/bitbang01)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=Script_Powershell&show_owner=true)](https://github.com/bitbang01/Script_Powershell)
 
 <!--layout=normal & compact & donut & donut-vertical & pie-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbang01&hide=HTML&layout=donut-vertical&card_width=300&custom_title=Corporate%20Coeffee%20Code&hide_progress=true)](https://github.com/bitbang01/github-readme-stats)
