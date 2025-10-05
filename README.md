@@ -63,6 +63,8 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&show_owner)](https://github.com/bitbang01/bitbang01)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=Script_Powershell&show_owner)](https://github.com/bitbang01/Script_Powershell)
+
 <!--Testing Done-->
 ![](https://github-readme-stats.vercel.app/api?username=bitbang01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
