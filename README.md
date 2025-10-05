@@ -73,17 +73,6 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 ![](https://nirzak-streak-stats.vercel.app/?user=bitbang01&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbang01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<a href="https://github.com/bitbang01/bitbang01" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
-</a>
-
-<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
-</a>
-
 <!--Testing Phase-->
 
 <br>
