@@ -22,7 +22,7 @@ $${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
 
-<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/dreamer.gif" width="40">My Universe</h3></div>  
+<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/dreamer.gif" width="40"> My Universe</h3></div>  
 
 ```javascript
 const Indian = {
