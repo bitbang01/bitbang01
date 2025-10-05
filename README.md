@@ -13,8 +13,7 @@
 
 $${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
-$${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$<div><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/MotherIndia.gif" width="30px"></div>
-$${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
+$${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$<img src="https://github.com/bitbang01/bitbang01/blob/main/resources/MotherIndia.gif" width="30px">$${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
 
 <img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/RainBirds.gif" width="230">
