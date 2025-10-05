@@ -69,7 +69,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 </a>
 
 <div align="center">
-### Show some ❤️ by starring some of the repositories!
+<h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
 
 <!--layout=normal & compact & donut & donut-vertical & pie-->
