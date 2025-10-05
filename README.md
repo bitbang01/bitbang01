@@ -22,7 +22,7 @@ $${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
 
-<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/travelW.gif" width="40"> My Universe</h3></div>  
+<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/travelW.gif" width="55"> My Universe</h3></div>  
 
 ```javascript
 const Indian = {
@@ -74,7 +74,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <br>
 <img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/BehindTheFireWall.gif" width="230">
 <br>
-<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/GitMe.gif" width="40"> About Me</h3></div>
+<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/beanbag.gif" width="40"> Bits About Me</h3></div>
 
 $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
