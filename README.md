@@ -61,7 +61,9 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <!--hide_rank=true&rank_icon=github, percentile or default-->
 [![Naval GitHub stats](https://github-readme-stats.vercel.app/api?username=bitbang01&hide=issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&commits_year=2025&theme=radical&rank_icon=github)](https://github.com/bitbang01/github-readme-stats)
 
-
+<a href="https://github.com/bitbang01/Script_Powershell" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=Script_Powershell&theme=dracula" />
+</a>
 <a href="https://github.com/bitbang01/bitbang01" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&theme=dracula" />
 </a>
