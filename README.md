@@ -74,7 +74,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <br>
 <img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/BehindTheFireWall.gif" width="230">
 <br>
-<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/travelW.gif" width="40"> About Me</h3></div>
+<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/GitMe.gif" width="40"> About Me</h3></div>
 
 $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
