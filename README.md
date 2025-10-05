@@ -87,8 +87,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
-![](https://nirzak-streak-stats.vercel.app/?user=bitbang01&theme=dark&hide_border=false)<br/>
-
+<h4>Decrypting my personality… please wait. 🐦</h4>
 ```text
 🚲I am currently working on PowerShell Automation
 🫡I am looking to collaborate on Azure PowerShell/CLI Automations
@@ -97,6 +96,8 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 🐦Ask me about Active Directory, Entra ID, CyberSecurity, PowerShell
 🍬Fun fact: MarkDown is a scary language.
 ```
+<br>
+![](https://nirzak-streak-stats.vercel.app/?user=bitbang01&theme=dark&hide_border=false)<br/>
 
 
 
