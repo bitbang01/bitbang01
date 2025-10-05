@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 🤗I am looking for help with Azure CLI/Terraform
 🪴I am currently learning Azure security and DevOps
 🐦Ask me about Active Directory, Entra ID, CyberSecurity, PowerShell
-🍬Fun fact: Learning is free
+🍬Fun fact: MarkDown is a scary language.
 ```
 $${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
