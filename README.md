@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
 <img align='left' src="https://github.com/bitbang01/bitbang01/blob/main/resources/RainFish.gif" width="230">
 <br>
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/travelW.gif" width="40"> My Github Stats</h3></div>
@@ -71,7 +72,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 ```
 
 <br>
-<img align='left' src="https://github.com/bitbang01/bitbang01/blob/main/resources/BehindTheFireWall.gif" width="230">
+<img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/BehindTheFireWall.gif" width="230">
 <br>
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/travelW.gif" width="40"> About Me</h3></div>
 
