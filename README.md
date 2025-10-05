@@ -61,7 +61,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <!--Testing Phase-->
 [![Naval GitHub stats](https://github-readme-stats.vercel.app/api?username=bitbang01&hide=issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&commits_year=2025&theme=radical)](https://github.com/bitbang01/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Testing Done-->
 ![](https://github-readme-stats.vercel.app/api?username=bitbang01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
