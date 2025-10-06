@@ -114,7 +114,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
 <p align="center">
-        <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/AZ104.svg" alt="Azure Administrator" />
+        <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/AZ104.svg" width="300" height="200" alt="Azure Administrator" />
 </p>
 
 <!--▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃-->
