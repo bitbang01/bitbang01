@@ -15,7 +15,7 @@ $${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <h3> Hi <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Wave2Mee.gif" width="30px">, I'm Naval. </h3><h3>A passionate $${\color{green} \mathbf{IAM \space \&\ \space Security \space Engineer}}$$ with ❤️ of Developer</h3>
 </div>
 
-$${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
+$${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
 
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/travelW.gif" width="55"> My Universe</h3></div>  
