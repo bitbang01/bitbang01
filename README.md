@@ -66,9 +66,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
 
-<a href="https://github.com/bitbang01/Script_Powershell" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=Script_Powershell&theme=dracula&show_owner=true" />
-</a>
+
 <a href="https://github.com/bitbang01/bitbang01" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&theme=dracula&show_owner=true" />
 </a>
