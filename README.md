@@ -66,7 +66,9 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
 
-
+<a href="https://github.com/bitbang01/Script_Powershell" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=Script_Powershell&theme=dracula&show_owner=true" />
+</a>
 <a href="https://github.com/bitbang01/bitbang01" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&theme=dracula&show_owner=true" />
 </a>
@@ -112,7 +114,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
 <p align="center">
-        <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-900-Cert.png" width="100" height="90" alt="Security Fundamentals" />
+        <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-00-Cert.png" width="100" height="90" alt="Security Fundamentals" />
         <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Az104-Cert.png" width="100" height="90" alt="Azure Administrator" />
         <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-300-Cert.png" width="100" height="90" alt="IAM Administrator" />
 </p>
