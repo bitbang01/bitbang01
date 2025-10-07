@@ -115,7 +115,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 <p align="center">
         <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Az104-Cert.png" width="100" height="90" alt="Azure Administrator" />
-        <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Sc300-Cert.png" width="100" height="90" alt="IAM Administrator" />
+        <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-300-Cert.png" width="100" height="90" alt="IAM Administrator" />
 </p>
 
 <!--▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃-->
