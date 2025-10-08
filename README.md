@@ -143,7 +143,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <table align="center">
   <tr>
     <td rowspan="3" style="padding:10px;">
-      <img src="image1.png" width="300" alt="Main Image"/>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Drawing.jpg" width="300" alt="Main Image"/>
     </td>
     <td style="padding:10px;">
       <img src="image2.png" width="140" alt="Image 2"/>
