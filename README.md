@@ -67,7 +67,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 <br>
 <br>
- 
+
 <img align='left' src="https://github.com/bitbang01/bitbang01/blob/main/resources/BehindTheFireWall.gif" width="230">
 <br>
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/LotusFlower.gif" width="50"> Bits About Me</h3></div>
@@ -207,6 +207,8 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 </div>
 
 </details>
+
+<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/PiecesOfPeace.gif" width="50"> Clone This Repository </h3>
 
 <p align="center">
         <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Freedom.svg" alt="Love my India" />
