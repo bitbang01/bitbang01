@@ -87,7 +87,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=bitbang01&theme=vue-dark&mode=weekly&exclude_days=Tue%2CWed%2CThu)](https://git.io/streak-stats)
 -->
 
-<div align="center">
+<div align="centerright">
 </a>
 <a href="https://git.io/streak-stats" target="_blank">
  <img src="https://nirzak-streak-stats.vercel.app?user=bitbang01&theme=vue-dark&mode=weekly&exclude_days=Tue%2CWed%2CThu" />
