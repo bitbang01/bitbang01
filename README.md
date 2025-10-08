@@ -9,7 +9,7 @@
 
 $${\color{#3cb371} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
-<img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/RainBirds.gif" width="230">
+<img align='left' src="https://github.com/bitbang01/bitbang01/blob/main/resources/RainBirds.gif" width="230">
 <!--img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"-->
 <div align="center">
 <h3> Hi <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Wave2Mee.gif" width="30px">, I'm Naval. </h3><h3>A passionate $${\color{green} \mathbf{IAM \space \&\ \space Security \space Engineer}}$$ with ❤️ of Developer</h3>
@@ -37,22 +37,7 @@ const Indian = {
 ```
 
 
-<!--
-**bitbang01/bitbang01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img align='left' src="https://github.com/bitbang01/bitbang01/blob/main/resources/RainFish.gif" width="230">
+<img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/RainFish.gif" width="230">
 <br>
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/GitStats.gif" width="40"> My Github Stats</h3></div>
 
@@ -81,7 +66,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 <br>
 
-<img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/BehindTheFireWall.gif" width="230">
+<img align='left' src="https://github.com/bitbang01/bitbang01/blob/main/resources/BehindTheFireWall.gif" width="230">
 <br>
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/LotusFlower.gif" width="50"> Bits About Me</h3></div>
 
@@ -115,7 +100,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <br>
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Cert.gif" width="50"> Professional Credentials</h3></div>
 -->
-<img align='left' src="https://github.com/bitbang01/bitbang01/blob/main/resources/Mahakaal.gif" width="230">
+<img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/Mahakaal.gif" width="230">
 <br>
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Cert.gif" width="50"> Professional Credentials</h3></div>
 
