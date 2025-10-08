@@ -144,8 +144,8 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
   <tr>
     <td rowspan="3" style="padding:10px;">
       <div align="center">
-      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Drawing.jpg" width="300" alt="Main Image"/>
       <p><strong>Drawing</strong></p>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Drawing.jpg" width="300" alt="Main Image"/>
       </div>      
     </td>
     <td style="padding:10px;">
