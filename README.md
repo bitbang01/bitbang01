@@ -136,11 +136,11 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <!--▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃-->
 <img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/YamunasWater.gif" width="230">
 <br>
-<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Coco-Chill.gif" width="50"> Side Hustle </h3></div>
+<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/PiecesOfPeace.gif" width="50"> Side Hustle </h3></div>
 
 $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
-<table>
+<table align="center">
   <tr>
     <td rowspan="3" style="padding:10px;">
       <img src="image1.png" width="300" alt="Main Image"/>
