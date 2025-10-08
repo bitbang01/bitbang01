@@ -87,12 +87,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=bitbang01&theme=vue-dark&mode=weekly&exclude_days=Tue%2CWed%2CThu)](https://git.io/streak-stats)
 -->
 
-<div align="right">
-</a>
-<a href="https://git.io/streak-stats" target="_blank">
- <img src="https://nirzak-streak-stats.vercel.app?user=bitbang01&theme=vue-dark&mode=weekly&exclude_days=Tue%2CWed%2CThu" />
-</a>
-</div>
+
 <br>
 <!-- test2
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Cert.gif" width="50"> Professional Credentials</h3></div>
@@ -117,6 +112,12 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/ps1arr0w/412B01227A43AFFA?sharingId">
         <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-300-Cert.png" width="100" height="90" alt="IAM Administrator" />
         </a>
+        <br>
+        </a>
+        <a href="https://git.io/streak-stats" target="_blank">
+         <img src="https://nirzak-streak-stats.vercel.app?user=bitbang01&theme=vue-dark&mode=weekly&exclude_days=Tue%2CWed%2CThu" />
+        </a>
+
 </p>
 
 <!--▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃-->
