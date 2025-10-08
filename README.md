@@ -164,13 +164,13 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
   <tr>
      <td style="padding:10px;">
      <div align="center">
-      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/QuestThinkPlan.web[]" width="140" alt="QuestThinkPlan"/>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/QuestThinkPlan.webp" width="140" alt="QuestThinkPlan"/>
       <p><strong>Quest Think Plan</strong></p>
     </div>
     </td>
     <td style="padding:10px;">
     <div align="center">
-      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/MoonGazing.gif" width="140" alt="Moon Gazing"/>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/MoonGazing.webp" width="140" alt="Moon Gazing"/>
       <p><strong>Moon Gazing</strong></p>
       </div>
     </td>
