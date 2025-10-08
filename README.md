@@ -60,15 +60,6 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&theme=dracula&show_owner=true" />
 </a>
 
-
-<div align="center">
-<br>
-</a>
-<a href="https://git.io/streak-stats" target="_blank">
- <img src="https://nirzak-streak-stats.vercel.app?user=bitbang01&theme=vue-dark&mode=weekly&exclude_days=Tue%2CWed%2CThu" />
-</a>
-</div>
-<br>
 <!--layout=normal & compact & donut & donut-vertical & pie-->
 
 <!--Hiding for using in another section
@@ -199,6 +190,15 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+<div align="center">
+<br>
+</a>
+<a href="https://git.io/streak-stats" target="_blank">
+ <img src="https://nirzak-streak-stats.vercel.app?user=bitbang01&theme=vue-dark&mode=weekly&exclude_days=Tue%2CWed%2CThu" />
+</a>
+</div>
+<br>
 
 </details>
 
