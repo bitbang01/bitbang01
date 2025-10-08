@@ -142,60 +142,48 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <br>
 <table align="center">
   <tr>
-
-    <td rowspan="3" style="padding:10px;">
+  <td rowspan="3" style="padding:10px;">
       <div align="center">
       <p><strong>Drawing</strong></p>
       <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Drawing.jpg" width="300" alt="Drawing"/>
       </div>      
     </td>
-
     <td style="padding:10px;">
      <div align="center">
       <img src="image2.png" width="140" alt="Image 2"/>
     </div>
     </td>
-
     <td style="padding:10px;">
     <div align="center">
       <img src="image3.png" width="140" alt="Image 3"/>
     </div>
     </td>
-
   </tr>
-
   <tr>
      <td style="padding:10px;">
      <div align="center">
       <img src="image4.png" width="140" alt="Image 4"/>
     </div>
     </td>
-
     <td style="padding:10px;">
     <div align="center">
       <img src="image5.png" width="140" alt="Image 5"/>
       </div>
     </td>
-
   </tr>
-
   <tr>
-
     <td style="padding:10px;">
     <div align="center">
       <img src="image6.png" width="140" alt="Image 6"/>
       </div>
     </td>
-
     <td style="padding:10px;">
       <div align="center">
       <img src="image7.png" width="140" alt="Image 7"/>
       </div>
     </td>
-
   </tr>
-  
-</table>
+  </table>
 
 <details>
 ## 🌐 Socials:
