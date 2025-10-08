@@ -150,36 +150,42 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
     </td>
     <td style="padding:10px;">
      <div align="center">
-      <img src="image2.png" width="140" alt="Image 2"/>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/CocoPie.gif" width="140" alt="Codesign"/>
+      <p><strong>Design & Code</strong></p>
     </div>
     </td>
     <td style="padding:10px;">
     <div align="center">
-      <img src="image3.png" width="140" alt="Image 3"/>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/nature-walk.gif" width="140" alt="Lost2Dreams"/>
+      <p><strong>Discover Peace</strong></p>
     </div>
     </td>
   </tr>
   <tr>
      <td style="padding:10px;">
      <div align="center">
-      <img src="image4.png" width="140" alt="Image 4"/>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/.gif" width="140" alt="Image 4"/>
+      <p><strong>Drawing</strong></p>
     </div>
     </td>
     <td style="padding:10px;">
     <div align="center">
-      <img src="image5.png" width="140" alt="Image 5"/>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/.gif" width="140" alt="Image 5"/>
+      <p><strong>Drawing</strong></p>
       </div>
     </td>
   </tr>
   <tr>
     <td style="padding:10px;">
     <div align="center">
-      <img src="image6.png" width="140" alt="Image 6"/>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/.gif" width="140" alt="Image 6"/>
+      <p><strong>Drawing</strong></p>
       </div>
     </td>
     <td style="padding:10px;">
       <div align="center">
-      <img src="image7.png" width="140" alt="Image 7"/>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/.gif" width="140" alt="Image 7"/>
+      <p><strong>Drawing</strong></p>
       </div>
     </td>
   </tr>
