@@ -156,8 +156,8 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
     </td>
     <td style="padding:10px;">
     <div align="center">
-      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Peace.gif" width="140" height="120" alt="Lost2Dreams"/>
-      <p><strong>Discover Peace</strong></p>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Teacching.gif" width="140" height="120" alt="Teaching"/>
+      <p><strong>Teaching N Learn</strong></p>
     </div>
     </td>
   </tr>
@@ -178,8 +178,8 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
   <tr>
     <td style="padding:10px;">
     <div align="center">
-      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/teaching.gif" width="140" alt="Learn n Teach"/>
-      <p><strong>Learn n Teach</strong></p>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/KillingInnocense.gif" width="140" alt="Discover Peace"/>
+      <p><strong>Discover Peace</strong></p>
       </div>
     </td>
     <td style="padding:10px;">
