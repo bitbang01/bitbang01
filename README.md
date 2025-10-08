@@ -210,11 +210,12 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 <div align='center'>
 <h3>🚀 Clone This Repository </h3>
+</div> 
 ```bash
 git clone https://github.com/bitbang01/bitbang01.git
 ```
 
-</div>
+
 
 <p align="center">
         <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Freedom.svg" alt="Love my India" />
