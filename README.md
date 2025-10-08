@@ -151,7 +151,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
     <td style="padding:10px;">
      <div align="center">
       <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/CocoPie.gif" width="140" height="120" alt="Codesign"/>
-      <p><strong>Design & Code</strong></p>
+      <p><strong>Design n Code</strong></p>
     </div>
     </td>
     <td style="padding:10px;">
@@ -164,28 +164,28 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
   <tr>
      <td style="padding:10px;">
      <div align="center">
-      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/.gif" width="140" alt="Image 4"/>
-      <p><strong>Drawing</strong></p>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/QuestThinkPlan.gif" width="140" alt="QuestThinkPlan"/>
+      <p><strong>Quest Think Plan</strong></p>
     </div>
     </td>
     <td style="padding:10px;">
     <div align="center">
-      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/.gif" width="140" alt="Image 5"/>
-      <p><strong>Drawing</strong></p>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/MoonGazing.gif" width="140" alt="Moon Gazing"/>
+      <p><strong>Moon Gazing</strong></p>
       </div>
     </td>
   </tr>
   <tr>
     <td style="padding:10px;">
     <div align="center">
-      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/.gif" width="140" alt="Image 6"/>
-      <p><strong>Drawing</strong></p>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/teaching.gif" width="140" alt="Learn n Teach"/>
+      <p><strong>Learn n Teach</strong></p>
       </div>
     </td>
     <td style="padding:10px;">
       <div align="center">
-      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/.gif" width="140" alt="Image 7"/>
-      <p><strong>Drawing</strong></p>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Gaming.gif" width="140" alt="Gaming"/>
+      <p><strong>Gaming</strong></p>
       </div>
     </td>
   </tr>
