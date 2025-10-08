@@ -208,7 +208,12 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 </details>
 
-<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/PiecesOfPeace.gif" width="50"> Clone This Repository </h3>
+<div align='center'>
+<h3>🚀 Clone This Repository </h3>
+```bash copy
+git clone https://github.com/bitbang01/bitbang01.git
+```
+</div>
 
 <p align="center">
         <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Freedom.svg" alt="Love my India" />
