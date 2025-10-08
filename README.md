@@ -115,7 +115,7 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <br>
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Cert.gif" width="50"> Professional Credentials</h3></div>
 -->
-<img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/Mahakaal.gif" width="230">
+<img align='left' src="https://github.com/bitbang01/bitbang01/blob/main/resources/Mahakaal.gif" width="230">
 <br>
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Cert.gif" width="50"> Professional Credentials</h3></div>
 
