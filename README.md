@@ -140,6 +140,36 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
+<table>
+  <tr>
+    <td rowspan="3" style="padding:10px;">
+      <img src="image1.png" width="300" alt="Main Image"/>
+    </td>
+    <td style="padding:10px;">
+      <img src="image2.png" width="140" alt="Image 2"/>
+    </td>
+    <td style="padding:10px;">
+      <img src="image3.png" width="140" alt="Image 3"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:10px;">
+      <img src="image4.png" width="140" alt="Image 4"/>
+    </td>
+    <td style="padding:10px;">
+      <img src="image5.png" width="140" alt="Image 5"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:10px;">
+      <img src="image6.png" width="140" alt="Image 6"/>
+    </td>
+    <td style="padding:10px;">
+      <img src="image7.png" width="140" alt="Image 7"/>
+    </td>
+  </tr>
+</table>
+
 <details>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ps1arr0w) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ps1arr0w) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ps1arr0w) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/ps1arr0w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:k.rajputnaval@gmail.com)
