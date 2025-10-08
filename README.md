@@ -211,8 +211,9 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <div align='center'>
 <h3>🚀 Clone This Repository </h3>
 ```bash
-git clone https://github.com/bitbang01/bitbang01.git
-``` 
+npx anmol
+```
+
 </div>
 
 <p align="center">
