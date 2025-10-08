@@ -45,9 +45,9 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 
 <!--hide_rank=true&rank_icon=github, percentile or default-->
+<div align="center">
 [![Naval GitHub stats](https://github-readme-stats.vercel.app/api?username=bitbang01&hide=issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&commits_year=2025&theme=radical&rank_icon=github)](https://github.com/bitbang01/github-readme-stats)
 
-<div align="center">
 <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
 
