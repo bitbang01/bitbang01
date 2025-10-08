@@ -140,8 +140,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/PiecesOfPeace.gif" width="50"> Horcrux Hunt Time </h3></div>
 
 $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
-<br>
-<br>
+
 <table align="center">
   <tr>
   <td rowspan="3" style="padding:10px;">
