@@ -134,7 +134,8 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 </p>
 
 <!--▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃-->
-
+<img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/YamunasWater.gif" width="230">
+<br>
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Coco-Chill.gif" width="50"> Weekend warrior </h3></div>
 
 $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
