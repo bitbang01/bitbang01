@@ -156,7 +156,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
     </td>
     <td style="padding:10px;">
     <div align="center">
-      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Teaching.gif" width="140" height="120" alt="Teaching"/>
+      <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/TeachLearn.gif" width="140" height="120" alt="Teaching"/>
       <p><strong>Teaching N Learn</strong></p>
     </div>
     </td>
