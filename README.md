@@ -151,7 +151,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
     <td style="padding:10px;">
      <div align="center">
       <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/CocoPie.gif" width="140" height="120" alt="Codesign"/>
-      <p><strong>Design n Code</strong></p>
+      <p><strong>Design N Code</strong></p>
     </div>
     </td>
     <td style="padding:10px;">
