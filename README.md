@@ -49,10 +49,6 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 [![Naval GitHub stats](https://github-readme-stats.vercel.app/api?username=bitbang01&hide=issues,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&commits_year=2025&theme=radical&rank_icon=github)](https://github.com/bitbang01/github-readme-stats)
 
-</a>
-<a href="https://git.io/streak-stats" target="_blank">
- <img src="https://nirzak-streak-stats.vercel.app?user=bitbang01&theme=vue-dark&mode=weekly&exclude_days=Tue%2CWed%2CThu" />
-</a>
 
 <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
@@ -62,6 +58,11 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 </a>
 <a href="https://github.com/bitbang01/bitbang01" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bitbang01&repo=bitbang01&theme=dracula&show_owner=true" />
+</a>
+
+</a>
+<a href="https://git.io/streak-stats" target="_blank">
+ <img src="https://nirzak-streak-stats.vercel.app?user=bitbang01&theme=vue-dark&mode=weekly&exclude_days=Tue%2CWed%2CThu" />
 </a>
 
 <br>
