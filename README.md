@@ -103,25 +103,6 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
-<p align="center">
-        <a href="https://learn.microsoft.com/api/credentials/share/en-us/ps1arr0w/C77318FE6D087815?sharingId=B38676EF2E2B6815">
-        <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-900-Cert.png" width="100" height="90" alt="Security Fundamentals" />
-        </a>
-        <a href="https://learn.microsoft.com/api/credentials/share/en-us/ps1arr0w/80A7A348D6A0C655?sharingId=B38676EF2E2B6815">
-        <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Az104-Cert.png" width="100" height="90" alt="Azure Administrator" />
-        </a>
-        <a href="https://learn.microsoft.com/api/credentials/share/en-us/ps1arr0w/412B01227A43AFFA?sharingId">
-        <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-300-Cert.png" width="100" height="90" alt="IAM Administrator" />
-        </a>
-        <br>
-        <a href="https://drive.google.com/file/d/1hShsNQkIs_jkc528IdExIeUeJhnP7iew/view">
-        <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/G-Cloud.png" width="100" height="90" alt="Google Cloud Digital Leader" />
-        </a>
-        <a href="https://www.hackerrank.com/certificates/3f97eb4ab1e0">
-        <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HackerRank.png" width="100" height="90" alt="Google Cloud Digital Leader" />
-        </a>
-</p>
-
 <table align="center">
   <tr>
     <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-900-Cert.png" alt="Box 1" width="150"/></td>
