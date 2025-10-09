@@ -114,7 +114,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
         <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-300-Cert.png" width="100" height="90" alt="IAM Administrator" />
         </a>
         <br>
-        <a href="https://learn.microsoft.com/api/credentials/share/en-us/ps1arr0w/412B01227A43AFFA?sharingId">
+        <a href="https://drive.google.com/file/d/1hShsNQkIs_jkc528IdExIeUeJhnP7iew/view">
         <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/G-Cloud.png" width="100" height="90" alt="Google Cloud Digital Leader" />
         </a>
 
