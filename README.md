@@ -117,6 +117,9 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
         <a href="https://drive.google.com/file/d/1hShsNQkIs_jkc528IdExIeUeJhnP7iew/view">
         <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/G-Cloud.png" width="100" height="90" alt="Google Cloud Digital Leader" />
         </a>
+        <a href="https://www.hackerrank.com/certificates/3f97eb4ab1e0">
+        <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HackerRank.png" width="100" height="90" alt="Google Cloud Digital Leader" />
+        </a>
 
 </p>
 
