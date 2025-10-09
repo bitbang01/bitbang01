@@ -218,3 +218,10 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 git clone https://github.com/bitbang01/bitbang01.git
 
 ```
+<div align="center">
+  <pre style="font-size:14px; width:60%; margin:auto; background:#f6f8fa; padding:10px; border-radius:6px;">
+<code>
+git clone https://github.com/bitbang01/bitbang01.git
+</code>
+  </pre>
+</div>
