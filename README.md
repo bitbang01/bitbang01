@@ -229,7 +229,7 @@ echo "Smaller and centered code block"
 <div align="center" style="width:60%; margin:auto;">
 ```bash
 git clone https://github.com/bitbang01/bitbang01.git
-echo Spread the flowers of beauty
+
 ```
 </div>
 
