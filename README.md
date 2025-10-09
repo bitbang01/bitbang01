@@ -209,7 +209,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 </details>
 
 <div align='center'>
-<h3>🚀 Ready to build? Clone and conquer. </h3>
+<h3>🚀 Ready to build? Clone this Repo </h3>
 </div>
 
 <div align="center">
