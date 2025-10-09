@@ -219,11 +219,9 @@ git clone https://github.com/bitbang01/bitbang01.git
 
 
 <div align="center" style="width:75%; margin:auto;">
-  <pre style="font-size:14px; width:60%; margin:auto; background:#0d98ba; padding:10px; border-radius:6px;">
 <code>
 echo "Smaller and centered code block"
 </code>
-  </pre>
 </div>
 
 <div align="center" style="width:60%; margin:auto;">
