@@ -212,9 +212,11 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <h3>🚀 Clone This Repository </h3>
 </div>
 
+<div align="center">
 ```yaml
 git clone https://github.com/bitbang01/bitbang01.git
 ```
+</div>
 
 <div align="center">
   <pre style="font-size:14px; width:60%; margin:auto; background:#0d98ba; padding:10px; border-radius:6px;">
