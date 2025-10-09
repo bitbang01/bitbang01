@@ -213,8 +213,8 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 </div>
 
 <div align="center">
-  <pre style="font-size:14px; width:60%; margin:auto; background:#f6f8fa; padding:10px; border-radius:6px;">
-  <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/github.webp" width="140" alt="CopymCode"/>
+<img src="https://github.com/bitbang01/bitbang01/blob/main/resources/github.webp" width="140" alt="CopymCode"/> 
+<pre style="font-size:14px; width:60%; margin:auto; background:#f6f8fa; padding:10px; border-radius:6px;">
 <code>
 git clone https://github.com/bitbang01/bitbang01.git
 #Shared code builds shared progress.
