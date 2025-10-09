@@ -138,7 +138,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <details>
 <img align='right' src="https://github.com/bitbang01/bitbang01/blob/main/resources/YamunasWater.gif" width="230">
 <br>
-<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/PiecesOfPeace.gif" width="50"> Horcrux Hunt Time </h3>
+<div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/PiecesOfPeace.gif" width="50"> Horcrux Unlocked </h3>
 
 $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 </div>
