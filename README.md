@@ -209,11 +209,11 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 </details>
 
 <div align='center'>
-<h3>🚀 Clone This Repository </h3>
+<h3>🚀 Ready to build? Clone and conquer. </h3>
 </div>
 
 <div align="center">
-<img src="https://github.com/bitbang01/bitbang01/blob/main/resources/github.webp" width="140" alt="CopymCode"/> 
+<img src="https://github.com/bitbang01/bitbang01/blob/main/resources/github.webp" width="140" alt="CopymCode"/>
 <pre style="font-size:14px; width:60%; margin:auto; background:#f6f8fa; padding:10px; border-radius:6px;">
 <code>
 git clone https://github.com/bitbang01/bitbang01.git
