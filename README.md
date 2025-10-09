@@ -220,3 +220,7 @@ git clone https://github.com/bitbang01/bitbang01.git
 </code>
   </pre>
 </div>
+
+<p align="center">
+        <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Freedom.svg" alt="Love my India" />
+</p>
