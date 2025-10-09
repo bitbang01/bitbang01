@@ -226,7 +226,7 @@ echo "Smaller and centered code block"
 </pre>
 </div>
 
-<div align="center" style="width:60%; margin:auto;">
+<div align="center" style="width:60%; margin:auto;"> 
 ```bash
 git clone https://github.com/bitbang01/bitbang01.git
 
