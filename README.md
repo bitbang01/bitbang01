@@ -216,7 +216,21 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 git clone https://github.com/bitbang01/bitbang01.git
 ```
 
+<div align="center">
+  <pre style="font-size:14px; width:60%; margin:auto; background:#f6f8fa; padding:10px; border-radius:6px;">
+<code>
+echo "Smaller and centered code block"
+</code>
+  </pre>
+</div>
 
+<div align="center" style="width:60%; margin:auto;">
+
+```bash
+# Your command or code here
+echo "Centered and smaller!"
+```
+</div>
 
 <p align="center">
         <img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Freedom.svg" alt="Love my India" />
