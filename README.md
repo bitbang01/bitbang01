@@ -208,8 +208,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 </details>
 
-<div align='center'>
-<h3>🚀 Ready to build? Clone this Repo </h3>
+<div align='center'><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/hummingbird.gif" width="50"><h3> Ready to build? Clone this Repo </h3>
 </div>
 
 <div align="center">
