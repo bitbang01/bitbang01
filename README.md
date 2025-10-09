@@ -124,7 +124,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <br>
 <div align='center'><h3><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/PiecesOfPeace.gif" width="50"> Book Time With Me </h3>
 
-$${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
+$${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 </div>
 
 ## 🌐 Socials:
@@ -211,7 +211,8 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <div align='center'>
 <h3>🚀 Clone This Repository </h3>
 </div>
-```
+
+```yaml
 git clone https://github.com/bitbang01/bitbang01.git
 ```
 
