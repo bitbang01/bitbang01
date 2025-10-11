@@ -122,6 +122,23 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
   </tr>
 </table>
 
+<!--DeathNote Style-->
+
+<table>
+  <tr>
+    <td><img src="path/to/image1.png" width="100"/></td>
+    <td rowspan="3"><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/DeathNote.jpg" height="300"/></td>
+    <td><img src="path/to/image3.png" width="100"/></td>
+  </tr>
+  <tr>
+    <td><img src="path/to/image4.png" width="100"/></td>
+    <td><img src="path/to/image5.png" width="100"/></td>
+  </tr>
+  <tr>
+    <td><img src="path/to/image6.png" width="100"/></td>
+    <td><img src="path/to/image7.png" width="100"/></td>
+  </tr>
+</table>
 <!--▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃-->
 
 <img align='left' src="https://github.com/bitbang01/bitbang01/blob/main/resources/SunRiseDream.gif" width="230">
