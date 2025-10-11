@@ -103,25 +103,6 @@ $${\color{#76ff7a} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
 
-<table align="center">
-  <tr>
-    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-900-Cert.png" alt="Box 1" width="150"/></td>
-    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Go-Google.webp" alt="Box 5" width="150"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Az104-Cert.png" alt="Box 2" width="150"/></td>
-    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HackerRank.png" alt="Box 6" width="150"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-300-Cert.png" alt="Box 3" width="150"/></td>
-    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/CompTIA.png" alt="Box 7" width="150"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Az-900-Cert.png" alt="Box 4" width="150"/></td>
-    <td></td>
-  </tr>
-</table>
-
 <!--DeathNote Style-->
 
 <table>
