@@ -110,6 +110,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
   <td colspan="3" align="center">
     <!--img src="path/to/top-banner.png" width="100%"/-->
     <h4>Death Note History! What Next?</h4>
+    $${\color{#536878} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
   </td>
 </tr>
   <tr>
@@ -128,6 +129,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
   <tr>
     <td colspan="3" align="center">
       <!--img src="path/to/bottom-banner.png" width="100%"/-->
+      $${\color{#536878} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
       <h4>"He who moves first always wins."</h4>
     </td>
   </tr>
