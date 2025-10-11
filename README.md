@@ -109,7 +109,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <tr>
   <td colspan="3" align="center">
     <!--img src="path/to/top-banner.png" width="100%"/-->
-    <h4>Death Note History! Who's Next?</h4>
+    <h4>Death Note History! </br>Who's Next?</h4>
     $${\color{#536878} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
   </td>
 </tr>
