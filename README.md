@@ -105,8 +105,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 
 <!--DeathNote Style-->
 
-<table>
-
+<table align="center">
 <tr>
   <td colspan="3" align="center">
     <!--img src="path/to/top-banner.png" width="100%"/-->
