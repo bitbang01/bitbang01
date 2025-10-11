@@ -128,9 +128,9 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <!--img src="path/to/bottom-banner.png" width="100%"/-->
       $${\color{#536878} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃}}$$
       <h4>"He who moves first always wins."</h4>
+      </br>
     </td>
   </tr>
 </table>
