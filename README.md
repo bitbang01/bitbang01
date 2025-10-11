@@ -106,6 +106,12 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
 <!--DeathNote Style-->
 
 <table>
+
+<tr>
+  <td colspan="3" align="center">
+    <img src="path/to/top-banner.png" width="100%"/>
+  </td>
+</tr>
   <tr>
     <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-300-Cert.png" alt="Box 3" width="100"/></td>
     <td rowspan="3"><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/DeathNote.jpg" height="300"/></td>
@@ -118,6 +124,11 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
   <tr>
     <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-900-Cert.png" alt="Box 1" width="100"/></td>
     <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/AZ900FUN.webp" alt="Box 4" width="100"/></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="path/to/bottom-banner.png" width="100%"/>
+    </td>
   </tr>
 </table>
 <!--▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃-->
