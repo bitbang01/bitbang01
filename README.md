@@ -135,8 +135,8 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
     <td><img src="path/to/image5.png" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="path/to/image6.png" width="100"/></td>
-    <td><img src="path/to/image7.png" width="100"/></td>
+    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-900-Cert.png" alt="Box 1" width="100"/></td>
+    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Az-900-Cert.png" alt="Box 4" width="100"/></td>
   </tr>
 </table>
 <!--▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃-->
