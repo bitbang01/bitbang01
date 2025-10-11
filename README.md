@@ -112,7 +112,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
     <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Az104-Cert.png" alt="Box 2" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HackerRank.png" alt="Box 6" width="100"/></td>
+    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/HackerRank.jpg" alt="Box 6" width="100"/></td>
     <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/DigitalC-Lead.webp" alt="Box 5" width="100"/></td>
   </tr>
   <tr>
