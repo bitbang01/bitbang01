@@ -117,7 +117,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
     <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/CompTIA.png" alt="Box 7" width="150"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Az-900-Cert.png" alt="Box 4" width="150"/></td>
+    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Az900-Cert.png" alt="Box 4" width="150"/></td>
     <td></td>
   </tr>
 </table>
