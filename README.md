@@ -128,7 +128,7 @@ $${\color{#00ff7f} \text{▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃�
   <tr>
     <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/SC-300-Cert.png" alt="Box 3" width="100"/></td>
     <td rowspan="3"><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/DeathNote.jpg" height="300"/></td>
-    <td><img src="path/to/image3.png" width="100"/></td>
+    <td><img src="https://github.com/bitbang01/bitbang01/blob/main/resources/Az104-Cert.png" alt="Box 2" width="100"/></td>
   </tr>
   <tr>
     <td><img src="path/to/image4.png" width="100"/></td>
